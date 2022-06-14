@@ -1,0 +1,13 @@
+.menu_wrap {
+    text-align: center;
+}
+
+.menu_wrap img {
+    width: 83%;
+    /* margin-left: 106px; */
+    margin: 0 auto;
+    padding-top: 150px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    margin-bottom: -4px;
+}
